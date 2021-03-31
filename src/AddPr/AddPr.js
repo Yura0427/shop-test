@@ -49,6 +49,7 @@ const AddPr = (props) => {
             },
             weight: productWeight,
             description: productDescription,
+            comments: []
         })
             .then((docRef) => {
                 setProductImage('')
