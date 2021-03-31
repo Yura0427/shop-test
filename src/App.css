@@ -1,0 +1,7 @@
+.bodyItems{
+    background-color: rgb(0, 128, 0, .3);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
